@@ -46,8 +46,3 @@ The primary objective of this project is to demonstrate the potential for energy
 
 Using the Blynk IoT platform, power consumption graphs are displayed to provide a clear visualization of energy usage and savings, allowing for real-time monitoring and adjustments.
 
-## Setup and Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/voice-recognition-home-automation.git
