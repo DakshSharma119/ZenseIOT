@@ -25,7 +25,7 @@ This repository contains the code and documentation for a voice-controlled home 
 - **Arduino Microcontroller**: Controls the sensors and processes voice commands.
 - **PIR Sensor**: Detects motion to control the lights in rest mode.
 - **LDR Sensor**: Measures ambient light conditions for adjusting the brightness of the bulb in power-saving mode.
-- **Relay Module**: Used to control the fan and light.
+- **Driver modules**: Used to control the fan and light.
 - **Fan**: Simulates a home fan controlled via voice commands.
 - **Light Bulb**: Simulates a light bulb controlled via voice commands and ambient light conditions.
 - **Blynk IoT Interface**: Displays real-time power consumption graphs and savings.
